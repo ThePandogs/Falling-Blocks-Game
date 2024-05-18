@@ -15,8 +15,13 @@ This is a personal, non-commercial implementation inspired by the game Tetris, c
 
 ## Screenshots
 
-![Game Screenshot](screenshots/mainMenu.png)
-![Game Screenshot](screenshots/gameplay.png)
+<p align="center">
+  <img src="screenshots/mainMenu.png" alt="Game Screenshot" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/gameplay.gif" alt="Game Screenshot">
+</p>
 
 ## Getting Started
 
