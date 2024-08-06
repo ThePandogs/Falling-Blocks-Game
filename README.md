@@ -41,6 +41,7 @@ git clone https://github.com/ThePandogs/falling-blocks-game.git
 2. Compile the project and enjoy:
  ```bash
 cd falling-blocks-game
+
 #Linux
  .\buildWindows.sh
 #Windows
