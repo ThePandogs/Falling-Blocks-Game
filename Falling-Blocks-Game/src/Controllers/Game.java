@@ -626,5 +626,6 @@ public final class Game {
             mainWindow.paintBlock(penaltyBlock.getLabel(), mainWindow.getGamePanel());
             positions.add(randomPosition);
         }
+        updateGhostPiece();
     }
 }
