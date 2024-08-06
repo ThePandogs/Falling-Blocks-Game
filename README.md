@@ -36,11 +36,11 @@ This is a personal, non-commercial implementation inspired by the game Tetris, c
 
 ```bash
 git clone https://github.com/ThePandogs/falling-blocks-game.git
-cd falling-blocks-game
 ```
 
 2. Compile the project and enjoy:
  ```bash
+cd falling-blocks-game
 #Linux
  .\buildWindows.sh
 #Windows
